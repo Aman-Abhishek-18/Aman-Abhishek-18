@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amanabhishek922@gmail.com**
 
-- 📄 Know about my experiences: <br>https://github.com/Aman-Abhishek-18/Aman-Abhishek-18/blob/main/AmanResume.pdf
+- 📄 Know about my experiences: <br>https://github.com/Aman-Abhishek-18/Aman-Abhishek-18/blob/main/Bantu%20Resume.pdf
 
 <h3 align="left">Connect with me:</h3>
 
