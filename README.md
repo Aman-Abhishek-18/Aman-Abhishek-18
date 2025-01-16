@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, It's me Aman Abhishek</h1>
-<h3 align="center">A passionate Senior Software Engineer from India</h3>
+<h1 align="center">Hello! 👋, I'm Aman Abhishek</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <h4 align="left">My strong hands 💪-> <b>Data Engineering and App & DB Development</b></h3><br>
 <i>Bonus : Mathematician 😀</i>
 <br>
