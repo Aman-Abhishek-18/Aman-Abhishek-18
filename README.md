@@ -1,7 +1,9 @@
 <h1 align="center">Hello! 👋, I'm Aman Abhishek</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <h4 align="left">My strong hands 💪-> <b>Data Engineering and App & DB Development</b></h3><br>
-<i>Bonus : Mathematician 😀</i>
+<i>Bonus : Mathematician 😀</i><br><br>
+
+<i>Fun Fact : Love tackling data challenges 📈 and turning them into powerful opportunities, just as I thrive as a perfect athlete on the ground 🏃‍♂️</i>
 <br>
 <img align="right" alt="coding" widht="200" height="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
