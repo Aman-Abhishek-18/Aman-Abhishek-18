@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, It's me Aman Abhishek</h1>
 <h3 align="center">A passionate Senior Software Engineer from India</h3>
-<h4 align="left">My strong hands 💪-> <b>Application and Database Development</b></h3><br>
+<h4 align="left">My strong hands 💪-> <b>Data Engineering and App & DB Development</b></h3><br>
 <i>Bonus : Mathematician 😀</i>
 <br>
 <img align="right" alt="coding" widht="200" height="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
