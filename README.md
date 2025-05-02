@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Aman Abhishek</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <h4 align="left">My strong hands 💪-> <b>Application Development</b></h3><br>
-<i>Bonus : Mathematician 😀</i><br><br>
+<i>Bonus : Mathematician 😀 , Tech-savvy !</i><br><br>
 
 <i>Fun Fact : Love tackling data challenges 📈 and turning them into powerful opportunities, just as I thrive as a perfect athlete on the ground 🏃‍♂️</i>
 <br>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amanabhishek922@gmail.com**
 
-- 📄 Know about my experiences: <br>https://github.com/Aman-Abhishek-18/Aman-Abhishek-18/blob/main/Aman%20Abhishek%20Resume%2015-01-2025.pdf
+- 📄 Know about my experiences: <br>https://github.com/Aman-Abhishek-18/Aman-Abhishek-18/blob/main/aman%2018_11_1999%20resume.pdf
 
 <h3 align="left">Connect with me:</h3>
 
