@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋, I'm Aman Abhishek</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<h4 align="left">My strong hands 💪-> <b>Data Engineering, Analysis, Visualization & Database Development</b></h3><br>
+<h4 align="left">My strong hands 💪-> <b>Application Development</b></h3><br>
 <i>Bonus : Mathematician 😀</i><br><br>
 
 <i>Fun Fact : Love tackling data challenges 📈 and turning them into powerful opportunities, just as I thrive as a perfect athlete on the ground 🏃‍♂️</i>
