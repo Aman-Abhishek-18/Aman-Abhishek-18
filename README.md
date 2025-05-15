@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amanabhishek922@gmail.com**
 
-- 📄 Know about my experiences: <br>https://github.com/Aman-Abhishek-18/Aman-Abhishek-18/blob/main/aman%2018_11_1999%20resume.pdf
+- 📄 Know about my experiences: <br>https://github.com/Aman-Abhishek-18/Aman-Abhishek-18/blob/main/resume%20aman.pdf
 
 <h3 align="left">Connect with me:</h3>
 
