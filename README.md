@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Aman Abhishek</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<h4 align="left">My strong hands 💪-> <b>Application Developement | PLSQL Developer | Technical Consultant </b></h3><br>
-<i>Bonus : Mathematician 😀 , Tech-savvy !</i><br><br>
+<h4 align="left">My strong hands 💪-> <b>Application Developement | PLSQL Developer | Oracle Technical Consultant </b></h3><br>
+<i>Bonus : Mathematician 😀 (Statistical & Mathematical Mindset) , Data Aficionado , Tech-savvy !</i><br><br>
 
 <i>Fun Fact : Love tackling data challenges 📈 and turning them into powerful opportunities, just as I thrive as a perfect athlete on the ground 🏃‍♂️</i>
 <br>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amanabhishek922@gmail.com**
 
-- 📄 Know about my experiences: <br>https://github.com/Aman-Abhishek-18/Aman-Abhishek-18/blob/main/resume%20aman.pdf
+- 📄 Know about my experiences: <br>https://github.com/Aman-Abhishek-18/Aman-Abhishek-18/blob/main/amanabhishek%20resume.pdf
 
 <h3 align="left">Connect with me:</h3>
 
