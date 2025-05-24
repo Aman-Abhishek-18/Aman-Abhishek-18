@@ -1,6 +1,8 @@
 <h1 align="center">Hello! 👋, I'm Aman Abhishek</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<h4 align="left">My strong hands 💪-> <b>Application Developement | PLSQL Developer | Oracle Technical Consultant </b></h3><br>
+<h4 align="left">My strong hands 💪-> <b>Application Developement | SQL/PLSQL/TSQL Developer | Oracle Technical Consultant </b></h3><br>
+<h4 align="left">Technologies -> <b>Oracle Cloud | IBM Cloud Pak for Business Automation | Microsoft SQL Server </b></h3><br>
+
 <i>Bonus : Mathematician 😀 (Statistical & Mathematical Mindset) , Data Aficionado , Tech-savvy !</i><br><br>
 
 <i>Fun Fact : Love tackling data challenges 📈 and turning them into powerful opportunities, just as I thrive as a perfect athlete on the ground 🏃‍♂️</i>
