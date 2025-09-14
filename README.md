@@ -1,6 +1,10 @@
 <h1 align="center">Hello! 👋, I'm Aman Abhishek</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<h4 align="left">My strong hands 💪-> <b>Application Development | SQL Server Technical Support Specialist | SDLC | T-SQL/SQL Dev | Integrations | Performance Tuning | SSIS </b></h3><br>
+<h4 align="left">My strong hands 💪 -> 
+  <b>Application Development | SDLC | T-SQL/SQL Development | Integrations | Performance Tuning | SSIS | 
+  SQL Server Technical Support Specialist | ERP – Trade Promotion Management (TPM) Support </b>
+</h4><br>
+
 <h4 align="left">Technologies -> <b>Microsoft SQL Server | Salesforce | IBM Cloud Pak for Business Automation </b></h3><br>
 
 <h4 align="left">Development Go-to task -> <b> Developing DB Services using T-SQL/PLSQL | Workflow Integration | Jira | Git | Bitbucket | SQL Server Agent Jobs Monitoring and Refining | Performance Tuning | SSIS Deployment to Integration Services Catalog </b></h3><br>
