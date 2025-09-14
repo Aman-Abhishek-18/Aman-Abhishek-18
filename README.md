@@ -7,14 +7,13 @@
 
 <h4 align="left">Technologies -> <b>Microsoft SQL Server | Salesforce | IBM Cloud Pak for Business Automation </b></h3><br>
 
-<h4 align="left">Development Go-to task -> <b> Developing DB Services using T-SQL/PLSQL | Workflow Integration | Jira | Git | Bitbucket | SQL Server Agent Jobs Monitoring and Refining | Performance Tuning | SSIS Deployment to Integration Services Catalog </b></h3><br>
+<h4 align="left">Development Go-to task -> <b> Developing DB Services using T-SQL/PLSQL | Workflow Integration | Jira | Git | Bitbucket | SQL Server Agent Jobs Monitoring and Refining | Performance Tuning | SSIS Deployment to Integration Services Catalog | Postman </b></h3><br>
 
 <h4 align="left">Support Go-to task -> <b> Leading Scrum & Handover Calls | Ticket Triaging & Team Assistance (Functional & Technical) | Code Troubleshooting | SIT/UAT/PROD Deployments | JIRA | Confluence | Regular Stakeholder Interaction </b></h3><br>
 
 
-<i>Bonus : Mathematician 😀 (Statistical & Mathematical Mindset) , Data Aficionado , Tech-savvy !</i><br><br>
+<i>Bonus : Mathematician 😀 (Statistical & Analytical Mindset) | Power BI Enthusiast | Strong Interest in Machine Learning Algorithms (exploring during leisure time)</i><br><br>
 
-<i>Fun Fact : Love tackling data challenges 📈 and turning them into powerful opportunities, just as I thrive as a perfect athlete on the ground 🏃‍♂️</i>
 <br>
 <img align="right" alt="coding" widht="200" height="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
