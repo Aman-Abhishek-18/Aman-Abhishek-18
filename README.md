@@ -7,7 +7,7 @@
 
 <h4 align="left">Technologies -> <b>Microsoft SQL Server | Salesforce | IBM Cloud Pak for Business Automation </b></h3><br>
 
-<h4 align="left">Development Go-to task -> <b> Developing DB Services using T-SQL/PLSQL | Workflow Integration | Jira | Git | Bitbucket | SQL Server Agent Jobs Monitoring and Refining | Performance Tuning | SSIS Deployment to Integration Services Catalog | Postman </b></h3><br>
+<h4 align="left">Development Go-to task -> <b> Developing DB Services using T-SQL/PLSQL | Workflow Integration | JIRA | Git | Bitbucket | SQL Server Agent Jobs Monitoring and Refining | Performance Tuning | SSIS Deployment to Integration Services Catalog | Postman </b></h3><br>
 
 <h4 align="left">Support Go-to task -> <b> Leading Scrum & Handover Calls | Ticket Triaging & Team Assistance (Functional & Technical) | Code Troubleshooting | SIT/UAT/PROD Deployments | JIRA | Confluence | Regular Stakeholder Interaction </b></h3><br>
 
