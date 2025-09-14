@@ -32,9 +32,10 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aman-abhishek-730595331/" target="blank">
-    <i>LinkedIn</i>
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-abhishek-730595331" height="30" width="40" />
+  <a href="https://medium.com/@AmanAbhishek" target="_blank">
+    <i>Medium</i>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Aman Abhishek Medium" height="30" width="40" />
   </a>
 </p>
+
 
